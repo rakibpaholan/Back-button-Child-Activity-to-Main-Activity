@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Child Activity to Main Acitivity</string>
+
+    <string name="text_view">
+
+        For Jumping any child Activity to Main Activity, Your must need to go Manifest file and
+        with current child file you need to add android:"parentActivityName"=".MainActivity">
+
+    </string>
+
+</resources>
